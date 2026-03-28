@@ -1,7 +1,7 @@
 # ¡Hola! Soy Arturo Mendoza 👋
 
 ### 🎓 Estudiante de Informática en la UNAM
-Apasionado por el desarrollo web, el diseño con CSS Grid y la creación de soluciones digitales eficientes.
+Apasionado por la fotografía. Estudiando el sexto semestre de la carrera de informática. Me gusta administrar requerimientos. Arriba la abstracción.
 
 ---
 

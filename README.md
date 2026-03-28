@@ -8,14 +8,15 @@ Apasionado por la fotografía. Estudiando el sexto semestre de la carrera de inf
 ## 🚀 Sobre mí
 - 🔭 Actualmente trabajando en: **Desarrollo web, Fotografía y video**.
 - 🌱 Aprendiendo: **PHP, HTML, cómo usar git, JS, entre otras cosas**.
+- 🎯 Meta para 2026: **Convertirme en un mejor profesional**.
+- 📫 Cómo contactarme: [Correo](mailto:gustavo.mendoza.prieto@gmail.com)
+- ⚡ Fun fact: Soy experto en vibecodear.
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🎯 Meta para 2026: **Convertirme en un mejor profesional**.
-- 📫 Cómo contactarme: [Correo](mailto:gustavo.mendoza.prieto@gmail.com)
-- ⚡ Fun fact: Soy experto en vibecodear.
 
 <!--
 ## 🛠️ Mis Tecnologías

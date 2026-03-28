@@ -27,9 +27,11 @@ Apasionado por el desarrollo web, el diseño con CSS Grid y la creación de solu
 </p>
 -->
 
+<!--
 ## 📊 Mis Estadísticas de GitHub
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ArturoMendozaP&show_icons=true&theme=radical" alt="Estadísticas de Arturo" />
 </p>
+-->
 
 <!--"El código es como el humor: cuando tienes que explicarlo, es malo." 💻✨-->
